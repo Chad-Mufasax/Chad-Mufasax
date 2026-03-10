@@ -2,7 +2,7 @@
   
 # Hello friend
 
-###  Cybersecurity Engineer | Pentester | Cloud Security Specialist
+###  Cybersecurity Engineer | Pentester | Cloud Security Specialist | And Whatever Gotham Needs
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chadkrd@gmail.com)
