@@ -8,12 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chadkrd@gmail.com)
 </div>
 
----
-
-## 🎯 About Me
-
-Final year Master's student in Cybersecurity at Epitech, passionate about offensive and defensive security.
-
 I build and ship apps that I hope will be as useful for people as they are for me. 
 
 ---
@@ -64,24 +58,7 @@ I build and ship apps that I hope will be as useful for people as they are for m
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chad-Mufasax&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
-
 ---
-
-## 📫 Get In Touch
-
-💬 Always open to discuss:
-- 🎯 Opportunities in **Pentest** / **Red Team** / **Application Security**
-- 💡 Revolutionary ideas I can dev and CTO if I think they're worth the time
-- 🤝 Collaborations on **security projects**
-- 🏴‍☠️ **CTF** challenges and competitions
-- ☕ Virtual coffee to talk **cybersecurity**
-
-<div align="center">
-
-**📧 chadkrd@gmail.com**
-
----
-
 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chad-Mufasax&color=F85D7F&style=flat-square&label=Profile+Views)
