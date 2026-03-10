@@ -78,7 +78,7 @@ I build and ship apps that I hope will be as useful for people as they are for m
 
 <div align="center">
 
-**📧 chadkrd@gmail.com | 📍 Lyon, France**
+**📧 chadkrd@gmail.com**
 
 ---
 
