@@ -50,14 +50,20 @@ I build and ship apps that I hope will be as useful for people as they are for m
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chad-Mufasax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chad-Mufasax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chad-Mufasax&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+<img src="https://github-readme-stats.vercel.app/api?username=Chad-Mufasax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chad-Mufasax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" height="165" />
 
 </div>
+
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chad-Mufasax&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+
+</div>
+
+---
+<div align="center">
+  
 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chad-Mufasax&color=F85D7F&style=flat-square&label=Profile+Views)
